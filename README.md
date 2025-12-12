@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-This is a **FORK** of Accessibility Manager. If you are looking for the original version, please visit the [WuDi-ZhanShen/Accessibility](https://github.com/WuDi-ZhanShen/AccessibilityManager) repository.
+This is a **FORK** of Accessibility Manager. If you are looking for the original version, please visit the [WuDi-ZhanShen/Accessibility](https://github.com/WuDi-ZhanShen/AccessibilityManager).
 
 ### Download
 
