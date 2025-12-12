@@ -1,10 +1,17 @@
-# 无障碍管理器
-本APP可以彻底取代系统设置里的无障碍设置页面。仅需要授权本APP写入安全设置即可使用。支持无障碍保活，不耗电不主动唤醒，且保活速度极快。
+# Accessibility Manager
 
-# 基于[WuDi-ZhanShen](https://github.com/WuDi-ZhanShen/AccessibilityManager)的源码进行优化
-优化内容:
-  - 得到作者许可添加开源协议
-  - 优化UI界面，UI更美观
-  - 新UI适配夜间模式，提升夜间使用体验
-  - 优化置顶逻辑，开启后返回桌面重新进入时自动置顶
-  - 版本号更高 【滑稽】
+This app can completely replace the accessibility settings page in the system settings. It only requires Shizuku To Work!
+It supports accessibility keep-alive without consuming power or actively waking up, and the keep-alive speed is extremely fast.
+
+# Optimized based on the source code of [WuDi-ZhanShen](https://github.com/WuDi-ZhanShen/AccessibilityManager).
+
+-
+⭐ New Features:
+
+- Added open-source license with the author's permission
+
+- Optimized UI for a more aesthetically pleasing look
+
+- The new UI is adapted for night mode, improving the user experience at night.
+
+- Optimized the pinning logic; when enabled and re-entering the app from the home screen, it will automatically pin to the top.
