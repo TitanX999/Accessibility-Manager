@@ -11,7 +11,7 @@ Get the latest version from the [releases page](https://github.com/thedjchi/Shiz
 This app can completely replace the accessibility settings page in the system settings. It only requires Shizuku To Work!
 It supports accessibility keep-alive without consuming power or actively waking up, and the keep-alive speed is extremely fast.
 
-### ⭐ Added Features:
+### Added Features:
 
 - Added open-source license with the author's permission
 
