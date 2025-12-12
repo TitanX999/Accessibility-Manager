@@ -1,12 +1,18 @@
 # Accessibility Manager
 
+### Disclaimer
+
+This is a **FORK** of Accessibility Manager. If you are looking for the original version, please visit the [WuDi-ZhanShen/Accessibility](https://github.com/WuDi-ZhanShen/AccessibilityManager) repository.
+
+### Download
+
+Get the latest version from the [releases page](https://github.com/thedjchi/Shizuku/releases).
+
 This app can completely replace the accessibility settings page in the system settings. It only requires Shizuku To Work!
 It supports accessibility keep-alive without consuming power or actively waking up, and the keep-alive speed is extremely fast.
 
-# Optimized based on the source code of [WuDi-ZhanShen](https://github.com/WuDi-ZhanShen/AccessibilityManager).
-
--
-⭐ New Features:
+---
+⭐ Added Features:
 
 - Added open-source license with the author's permission
 
